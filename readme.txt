@@ -1,0 +1,1 @@
+Prueler calculates Stokes vector change when light light propagates through polarizers and retarders
